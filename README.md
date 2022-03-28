@@ -1,3 +1,7 @@
+<h2>The script is sourced from https://github.com/AnatolyUss/nmig. Changes made compared to the original version (0c1235e from Feb 19 2022):</h2>
+
+mysql package dependency changed to mysql2 - resolving the issue detailed here: https://stackoverflow.com/questions/50093144/mysql-8-0-client-does-not-support-authentication-protocol-requested-by-server
+
 <h3>NMIG - the database migration tool.</h3>
 
 <h3>WHAT IS IT ALL ABOUT?</h3>
