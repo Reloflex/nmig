@@ -19,9 +19,9 @@
     },
 
     "bit" : {
-        "increased_size"           : "bit varying",
-        "type"                     : "bit varying",
-        "mySqlVarLenPgSqlFixedLen" : false
+        "increased_size"           : "",
+        "type"                     : "boolean",
+        "mySqlVarLenPgSqlFixedLen" : true
     },
 
     "year" : {

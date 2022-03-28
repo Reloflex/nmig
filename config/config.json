@@ -13,11 +13,11 @@
     "source" : {
         "host"             : "localhost",
         "port"             : 3306,
-        "database"         : "test_db",
+        "database"         : "prof",
         "charset"          : "utf8mb4",
         "supportBigNumbers": true,
         "user"             : "root",
-        "password"         : "0123456789"
+        "password"         : "root"
     },
 
     "target_description" : [
@@ -29,10 +29,10 @@
     "target" : {
         "host"     : "localhost",
         "port"     : 5432,
-        "database" : "test_db",
+        "database" : "prof",
         "charset"  : "UTF8",
         "user"     : "postgres",
-        "password" : "0123456789"
+        "password" : "root"
     },
 
     "max_each_db_connection_pool_size_description" : [
